@@ -1,2 +1,2 @@
 # Github-demo
-Auther = Taruna
+Auther = Taruna.
